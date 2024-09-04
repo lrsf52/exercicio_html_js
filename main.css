@@ -1,0 +1,7 @@
+form input, form button {
+    display: block;
+    margin-bottom: 8px;
+    padding: 8px;
+    width: 250px;;
+
+}
